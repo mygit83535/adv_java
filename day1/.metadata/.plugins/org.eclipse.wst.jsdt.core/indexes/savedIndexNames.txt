@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+E:\personalgitdata\advjava\day1\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+550578723.index
+881393552.index
+2665020513.index
+2366240152.index
+115954080.index
+1345302021.index
