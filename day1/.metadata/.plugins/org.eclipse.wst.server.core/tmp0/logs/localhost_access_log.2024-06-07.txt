@@ -1,9 +1,0 @@
-127.0.0.1 - - [07/Jun/2024:13:33:05 -0700] "GET / HTTP/1.1" 404 751
-0:0:0:0:0:0:0:1 - - [07/Jun/2024:13:33:06 -0700] "GET /firstapp/bye HTTP/1.1" 200 119
-0:0:0:0:0:0:0:1 - - [07/Jun/2024:13:34:52 -0700] "GET /firstapp/bye HTTP/1.1" 200 119
-0:0:0:0:0:0:0:1 - - [07/Jun/2024:13:50:49 -0700] "GET /firstapp/servlet/firstapp.ThirdServlet HTTP/1.1" 404 797
-0:0:0:0:0:0:0:1 - - [07/Jun/2024:13:51:58 -0700] "GET /firstapp/hi HTTP/1.1" 405 751
-0:0:0:0:0:0:0:1 - - [07/Jun/2024:13:52:47 -0700] "GET /firstapp/servlet/firstapp.ThirdServlet HTTP/1.1" 404 797
-127.0.0.1 - - [07/Jun/2024:13:57:14 -0700] "GET / HTTP/1.1" 404 751
-0:0:0:0:0:0:0:1 - - [07/Jun/2024:13:57:14 -0700] "GET /firstapp/bye HTTP/1.1" 200 119
-0:0:0:0:0:0:0:1 - - [07/Jun/2024:13:58:55 -0700] "GET /firstapp/servlet/firstapp.ThirdServlet HTTP/1.1" 404 797
